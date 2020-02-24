@@ -18,4 +18,5 @@ def take_a_bow
   all."
 end
 
+
 end
